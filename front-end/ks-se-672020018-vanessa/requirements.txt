@@ -1,0 +1,7 @@
+Flask
+requests
+gunicorn
+PyJWT
+waitress
+falcon_cors
+werkzeug
